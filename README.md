@@ -1,17 +1,16 @@
-# Stage 03 - Challenge 02
+# Stage 03 - Challenge 03
 
 <img align="right" src="./preview.png"/>
 
+🚀 **Projeto desenvolvido no nível 03 do programa de formação Explorer da Rocketseat.**
+
 ## 📝 **Conceitos trabalhados**
 
-- Responsividade
-- Mobile first
+**Responsividade**
+
 - Unidades de medidas relativas e flexíveis
 - Transições e transformações no CSS
 - Variáveis no CSS
-
-</br>
-
-🚀 **Projeto desenvolvido no nível 03 do programa de formação Explorer da Rocketseat.**
+- Mobile first
 
 #### 👉🏽 Clique **[aqui](https://eduardofariasdev.github.io/stage03-challenge03/)** e abra esse projeto no seu seu navegador.
