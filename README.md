@@ -4,6 +4,8 @@
 
 🚀 **Projeto desenvolvido no nível 03 do programa de formação Explorer da Rocketseat.**
 
+</br>
+
 ## 📝 **Conceitos trabalhados**
 
 **Responsividade**
